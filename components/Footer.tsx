@@ -68,7 +68,7 @@ function Footer() {
         </div>
 
         <div className="my-5">
-          <p className="text-center text-lg">&copy; Copyright</p>
+          <p className="text-center text-lg">&copy; Copyright - 2024</p>
         </div>
       </div>
     </footer>

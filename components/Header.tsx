@@ -20,7 +20,7 @@ function Header() {
             <span className="text-xl font-medium">JustRent</span>
           </Link>
 
-          <div className="flex items-center space-x-5 lg:hidden">
+          <div className="hidden md:flex items-center space-x-5 lg:hidden">
             <PhoneIcon size={24} color="black" />
             <UserIcon size={24} color="black" />
             <button className=" bg-violet-500 w-36 h-10 rounded text-white hover:bg-black duration-300">
