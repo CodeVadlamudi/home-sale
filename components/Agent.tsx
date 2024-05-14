@@ -3,7 +3,7 @@ import React from "react";
 function Agent() {
   return (
     <section className="flow-root bg-violet-600">
-      <div className="my-24 container flex flex-col md:flex-row items-center justify-between rounded space-y-5 md:space-y-0">
+      <div className="my-24 container flex flex-col lg:flex-row items-center justify-between rounded space-y-5 md:space-y-0">
         <div className="text-white space-y-1 text-center">
           <h2 className="text-2xl">Become a Real Estate Agent</h2>
           <p className="text-lg">
