@@ -12,4 +12,4 @@ pnpm dev
 bun dev
 ```
 
-<a href="https://home-sale.vercel.app/">Please visit</a>
+<a href="https://home-sale.vercel.app/" target="_blank">Please visit</a>
