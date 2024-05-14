@@ -20,7 +20,7 @@ function Hero() {
               Find Your Perfect Home!
             </h2>
           </div>
-          <div className="inline-flex items-center bg-white px-4 rounded overflow-hidden w-96 h-12">
+          <div className="inline-flex items-center bg-white px-4 rounded overflow-hidden w-60 md:w-96 h-12">
             <input
               type="search"
               placeholder="Enter Name, Keywords"
