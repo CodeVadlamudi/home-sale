@@ -11,7 +11,7 @@ function Agent() {
           </p>
         </div>
 
-        <button className="bg-white w-96 h-12 text-violet-800 rounded text-lg uppercase shadow-md">
+        <button className="bg-white w-72 h-12 text-violet-800 rounded text-base uppercase shadow-md">
           Sign in or create an account
         </button>
       </div>
