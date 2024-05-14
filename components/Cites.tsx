@@ -21,7 +21,7 @@ function Cites() {
             <div className="absolute top-0 bg-gradient-to-b from-black/60 h-full w-full bottom-0">
               <div className="ml-8 mt-8">
                 <h5 className="text-white text-lg">2 Properties</h5>
-                <h3 className="text-white text-2xl font-medium">Delhi</h3>
+                <h3 className="text-white text-xl md:text-2xl font-medium">Delhi</h3>
               </div>
             </div>
           </div>
@@ -34,7 +34,7 @@ function Cites() {
             <div className="absolute top-0 bg-gradient-to-b from-black/60 h-full w-full bottom-0">
               <div className="ml-8 mt-8">
                 <h5 className="text-white text-lg">2 Properties</h5>
-                <h3 className="text-white text-2xl font-medium">Mumbai</h3>
+                <h3 className="text-white text-xl md:text-2xl font-medium">Mumbai</h3>
               </div>
             </div>
           </div>
@@ -47,7 +47,7 @@ function Cites() {
             <div className="absolute top-0 bg-gradient-to-b from-black/60 h-full w-full bottom-0">
               <div className="ml-8 mt-8">
                 <h5 className="text-white text-lg">2 Properties</h5>
-                <h3 className="text-white text-2xl font-medium">Nodia City</h3>
+                <h3 className="text-white text-xl md:text-2xl font-medium">Nodia City</h3>
               </div>
             </div>
           </div>
@@ -60,7 +60,7 @@ function Cites() {
             <div className="absolute top-0 bg-gradient-to-b from-black/60 h-full w-full bottom-0">
               <div className="ml-8 mt-8">
                 <h5 className="text-white text-lg">2 Properties</h5>
-                <h3 className="text-white text-2xl font-medium">
+                <h3 className="text-white text-xl md:text-2xl font-medium">
                   Bangalore City
                 </h3>
               </div>
@@ -75,7 +75,7 @@ function Cites() {
             <div className="absolute top-0 bg-gradient-to-b from-black/60 h-full w-full bottom-0">
               <div className="ml-8 mt-8">
                 <h5 className="text-white text-lg">2 Properties</h5>
-                <h3 className="text-white text-2xl font-medium">Kochi City</h3>
+                <h3 className="text-white text-xl md:text-2xl font-medium">Kochi City</h3>
               </div>
             </div>
           </div>
@@ -88,7 +88,7 @@ function Cites() {
             <div className="absolute top-0 bg-gradient-to-b from-black/60 h-full w-full bottom-0">
               <div className="ml-8 mt-8">
                 <h5 className="text-white text-lg">2 Properties</h5>
-                <h3 className="text-white text-2xl font-medium">
+                <h3 className="text-white text-xl md:text-2xl font-medium">
                   Lakshadweep Beach
                 </h3>
               </div>
